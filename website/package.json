@@ -15,9 +15,9 @@
     "dev": "docusaurus start"
   },
   "dependencies": {
-    "@docusaurus/core": "^2.3.1",
-    "@docusaurus/preset-classic": "^2.3.1",
-    "docusaurus-plugin-sass": "^0.2.3",
+    "@docusaurus/core": "^3.1.1",
+    "@docusaurus/preset-classic": "^3.1.1",
+    "docusaurus-plugin-sass": "^0.2.5",
     "raw-loader": "^4.0.2",
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
